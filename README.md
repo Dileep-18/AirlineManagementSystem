@@ -4,7 +4,11 @@ A Java-based desktop application for managing airline operations such as flight 
 #⚙️ Features
 
 -Add, update, and delete passengers
+ 
 -Book and cancel flights
+
 -Manage tickets and flight schedules
+
 -User-friendly GUI built with Swing
+
 -Database integration with MySQL
